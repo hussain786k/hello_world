@@ -1,6 +1,6 @@
 # hello_world
 just another repository
 Hi,
-This is FYBSc Computer Science student
+This is FYBSc student
 Practical on Github.
 Bye.
